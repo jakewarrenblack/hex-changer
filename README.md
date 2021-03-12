@@ -1,4 +1,4 @@
-# Tiny hex-changer java application
+# Tiny hex-changer javascript application
 
 * Click the button to get a random colour :)
 
