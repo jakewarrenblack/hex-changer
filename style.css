@@ -6,6 +6,7 @@
 h1{
     font-family:Arial;
     margin-bottom:5vh;
+    text-align:center;
 }
 
 h2{
@@ -20,6 +21,10 @@ body{
     height:70%;
     flex-wrap:wrap;
     flex-direction:column;
+}
+
+.hexVal-contain{
+    height:4rem;
 }
 
 button{
