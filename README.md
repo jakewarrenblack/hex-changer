@@ -1,4 +1,4 @@
-# Tiny hex-changer javascript application
+# Tiny hex-changer javascript application 🌈
 
 * https://jakewarrenblack.github.io/hex-changer/
 
