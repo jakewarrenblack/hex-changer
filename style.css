@@ -25,6 +25,20 @@ body{
 
 .hexval-contain{
     height:4rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:2rem;
+}
+
+input{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: black;
+    text-align:center;
+    font-size:2rem;
+    padding:2rem;
 }
 
 button{
@@ -41,4 +55,5 @@ button{
 
 button:hover{
     transform:scale(1.05);
+    cursor:pointer;
 }
